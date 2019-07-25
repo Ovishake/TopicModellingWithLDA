@@ -10,4 +10,8 @@ https://dumps.wikimedia.org/simplewiki/latest/
 
 be sure to download both the XML and the TXT file.
 
+To unzip the bzip file use the below command:
+
+bzip2 -d filename
+
 Keywords: Gensim, LDA, Topic Modelling
